@@ -7,5 +7,6 @@
 7. Now, go back to terminal and type, git add gitquiz.txt
 8. Type, git commit -m "Quiz for gitquiz"
 9. Now, push the file to save in github.com. Type, git push
-10. After you are done with this process, refreash your github.com page to check if its in there. 
+10. After git push, type your username for github and your password
+11. After you are done with this process, refreash your github.com page to check if its in there. 
 
