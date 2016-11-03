@@ -1,0 +1,11 @@
+1. Open terminal and clone it. Copy and paste this git clone --config="http.proxy=http://min2151:cho226@192.168.2.1:8080" https://github.com/min2151-cmis/min2151-cmis-wd.git
+2. Type cd to change directory. Type, cd min2151-cmis-wd
+3. To add a file, type gedit <gitquiz.txt> &
+4. It opens up the geddit app.
+5. Write the insturctions.
+6. Save what you wrote by clicking control s
+7. Now, go back to terminal and type, git add gitquiz.txt
+8. Type, git commit -m "Quiz for gitquiz"
+9. Now, push the file to save in github.com. Type, git push
+10. After you are done with this process, refreash your github.com page to check if its in there. 
+
