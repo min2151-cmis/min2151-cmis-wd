@@ -1,8 +1,11 @@
 html { 
-		background-color : DeepPink;
+		background-color : DeepPink ; 
 		border-color : Black ;
 		border-style : dotted ;
 		border-width : 6px ;
+		margin-top : 20px ;
+		margin-left : 10px ;
+		
 }
 h1 {
 		background-color : White ;
@@ -12,6 +15,13 @@ h1 {
 		border-style : dotted ;
 		border-color : Black ;
 		border-width : 3px ;
+		text-shadow : 2px 2px 2px blue ;
+		padding : 2px ; 
+		padding-left : 1cm ;
+		padding-right : 1cm ;
+		padding-bottom : 1cm ;
+
+	
 }
 h2 {
 		background-color : Khaki ;
@@ -21,7 +31,11 @@ h2 {
 		border-style : dotted ;
 		border-color : Black ;
 		border-width : 2px ; 
-}
+		opacity : 0.5 ; 
+		font-family : monospace ;
+		max-height : 125px ;
+		max-width : 120px ;
+}	
 p {
 		border-style : solid ;
 		border-width : 2px ;
@@ -29,4 +43,7 @@ p {
 		font-size : 14px ;
 		text-align : right ;
 		background-color : White ; 
+		margin : 2cm ;
+		text-shadow: 1px 1px #ff0000;
+
 }
