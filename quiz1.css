@@ -1,0 +1,29 @@
+html { 
+		background-color : Pink ; 
+		border-color : OrangeRed ;
+		border-style : dotted ;
+		border-width : 30px ;
+
+}
+h1 {
+		background-color : LightBlue ;
+		font-size : 60px ;
+		color : Red ;
+}
+p {	
+		color : Blue ;
+		font-size : 10px ;
+}
+h2 {
+		background-color : Blue ;
+		color : White ;
+
+
+}
+h3 {
+		background-color : Blue ;
+		color: White ;
+}
+h4 {
+		background-color : Blue ;
+		color : White ;
