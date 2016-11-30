@@ -66,5 +66,12 @@ p {
 		background-color : White ; 
 		margin : 2cm ;
 		text-shadow: 1px 1px #ff0000;
+		padding: 10px;
+		padding-bottom: 1cm;
+		adding-top: 1cm;
+		padding-right: 1cm;
+		padding-left: 1cm;
+		font-size: 250%;
+		direction: rtl;
 
 }
