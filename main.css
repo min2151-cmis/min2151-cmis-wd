@@ -24,7 +24,6 @@ html {
 		border-width : 6px ;
 		margin-top : 20px ;
 		margin-left : 10px ;
-		
 }
 h1 {
 		background-color : White ;
@@ -39,8 +38,6 @@ h1 {
 		padding-left : 1cm ;
 		padding-right : 1cm ;
 		padding-bottom : 1cm ;
-
-	
 }
 h2 {
 		background-color : Khaki ;
@@ -73,5 +70,4 @@ p {
 		padding-left: 1cm;
 		font-size: 250%;
 		direction: rtl;
-
 }
