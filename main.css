@@ -17,57 +17,60 @@
 	*Upload to the production server with sftp.
 	*View your index.html in the production server.*/
 
-html { 
-		background-color : DeepPink ; 
-		border-color : Black ;
-		border-style : dotted ;
-		border-width : 6px ;
-		margin-top : 20px ;
-		margin-left : 10px ;
+
+body{
+	background-color: #F5F5F5;
+	border: 10px solid;
+	border-bottom-color: #00CCFF;
+	border-bottom-style: groove;
+	border-bottom-width: 20px;
+	border-left-style: hidden;
+	border-top-color: blue;
+	border-top-style: double;
+	border-right-color: #0099FF;
 }
-h1 {
-		background-color : White ;
-		color : GreenYellow ;
-		text-align : center ;
-		font-size : 60px ;
-		border-style : dotted ;
-		border-color : Black ;
-		border-width : 3px ;
-		text-shadow : 2px 2px 2px blue ;
-		padding : 2px ; 
-		padding-left : 1cm ;
-		padding-right : 1cm ;
-		padding-bottom : 1cm ;
+h1{
+	background-color: #AEAEAE;
+	color: #003AAD;
+	font-family: Times New Roman;
+	font-size: 400%;
+	text-align: center;
+	text-decoration: overline;
+	text-shadow: 4px 4px 4px white;
+	border-style: dotted dashed solid double;
 }
-h2 {
-		background-color : Khaki ;
-		text-align : left ;
-		font-size : 30px ;
-		font-style : italic ;
-		border-style : dotted ;
-		border-color : Black ;
-		border-width : 2px ; 
-		opacity : 0.5 ; 
-		font-family : monospace ;
-		max-height : 125px ;
-		max-width : 120px ;
-		color: white;
-		transform: rotate(-7deg);
-}	
-p {
-		border-style : solid ;
-		border-width : 2px ;
-		border-color : ForestGreen ;
-		font-size : 14px ;
-		text-align : right ;
-		background-color : White ; 
-		margin : 2cm ;
-		text-shadow: 1px 1px #ff0000;
-		padding: 10px;
-		padding-bottom: 1cm;
-		adding-top: 1cm;
-		padding-right: 1cm;
-		padding-left: 1cm;
-		font-size: 250%;
-		direction: rtl;
+h2{
+	background-color: #C9C9C9;	
+	color: #74A2FF;
+	font-family: Comic Sans Ms;
+	font-style: oblique;
+	font-size: 40px;
+	text-decoration: underline;
+	border: 20px outset;
+	border-top-color: #CCFFFF;
+	border-bottom-color: blue;
+	border-bottom-style: groove;
+}
+p{
+	background-color: #E4E4E4;
+	color: blue;
+	font-size: 160%;
+	font-family: Courier, monospace;
+	font-weight: 900;
+	text-shadow: 4px 4px 10px #CC3300;
+	border: 20px;
+	border-style: double;
+	border-color: #00FFFF;
+}
+footer{
+	background-color: rgb(204, 204, 255);
+	color: #0099CC;
+	font-family: Impact;
+	font-size: 150%;
+	text-decoration: line-through;
+	border: 5px ridge;
+	line-height: 300%;
+	border-left-color: #3366CC;
+	border-left-style: dotted;
+	border-right-color: #99FFFF;
 }
